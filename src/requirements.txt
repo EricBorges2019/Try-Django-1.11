@@ -3,6 +3,6 @@ Django==3.2.15
 django-crispy-forms==1.6.1
 gunicorn==19.10.0
 olefile==0.44
-Pillow==9.0.1
+Pillow==9.3.0
 psycopg2==2.7.1
 pytz==2017.2
