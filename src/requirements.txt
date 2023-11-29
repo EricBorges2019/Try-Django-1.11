@@ -1,8 +1,8 @@
 dj-database-url==0.4.2
-Django==3.2.15
+Django==3.2.23
 django-crispy-forms==1.6.1
 gunicorn==19.10.0
 olefile==0.44
-Pillow==9.0.1
+Pillow==10.0.0
 psycopg2==2.7.1
 pytz==2017.2
